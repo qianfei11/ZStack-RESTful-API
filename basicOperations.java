@@ -12,7 +12,7 @@ import java.util.HashMap;
 
 import org.zstack.sdk.*;
 
-public class CreateVM {
+public class basicOperations {
     public static String SHA512(String str) {
         String strRes = null;
         if (str != null && str.length() > 0) {
